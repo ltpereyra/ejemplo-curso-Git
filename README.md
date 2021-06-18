@@ -1,2 +1,2 @@
 # ejemplo-curso-Git
-Repo se prueba para curso Git codigofacilito
+Repo de prueba para curso Git codigofacilito
